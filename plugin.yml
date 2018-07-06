@@ -1,0 +1,11 @@
+name: IsMania_Home
+version: 1.0
+author: IsMania
+main: fr.ismania.home.Main
+commands:
+  home:
+    description: Voir la liste de ses homes. Se téléporter à un home.
+  sethome:
+    description: Creer un nouveau home.
+  delhome:
+    description: Supprimer un home.
