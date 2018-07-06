@@ -8,7 +8,7 @@ import fr.ismania.home.commands.CommandSetHome;
 
 public class Main extends JavaPlugin {
 
-	public String prefix = "§7[§aIs§2Home§7] ";
+	public String prefix = "§7[§aIs§2M§6Home§7] ";
 	
 	@Override
 	public void onEnable() {
